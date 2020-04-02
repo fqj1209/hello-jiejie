@@ -1,2 +1,5 @@
 # hello-jiejie
-Just first repository
+
+Hi Humans!
+
+This is my frist test!
